@@ -1,0 +1,4 @@
+let price = 100;
+let tax = price * 0.1;
+let total = price + tax;
+print(total);
